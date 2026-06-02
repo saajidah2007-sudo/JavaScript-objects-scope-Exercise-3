@@ -49,7 +49,6 @@ let student1 = new Student ('Saajidah', 18 , 'Architecture');
 let student2 = new Student ('Mawaddah', 13 , 'Visual Communication');
 let student3 = new Student ('Natheerah' , 24 , 'Software Development');
 
-// Removed the console.log wrap around these since the function already logs the message
 student1.introduce();
 student2.introduce();
 student3.introduce();
