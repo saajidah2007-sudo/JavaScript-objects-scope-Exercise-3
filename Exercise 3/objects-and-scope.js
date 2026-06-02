@@ -61,7 +61,7 @@ let person = {
   lastName: "Abrahams",
   favouriteColour: "Blue",
 
-  contactDetails: { // Fixed typo "constactDetails"
+  contactDetails: { 
     email:"lola@example.com",
     phone:"123-456-789",
 
